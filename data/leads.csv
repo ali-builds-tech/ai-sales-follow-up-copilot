@@ -1,0 +1,16 @@
+Lead_ID,Business_Name,Industry,City,Email,Phone,Employees,Monthly_Revenue,Last_Contact,Website_Status
+L001,Alpha Dental Clinic,Dental,Islamabad,contact@alphadental.com,03001234567,18,850000,2026-09-10,Active
+L002,Prime Estate Group,Real Estate,Lahore,info@primeestate.com,03012345678,35,2200000,2026-09-05,Active
+L003,Green Leaf Restaurant,Restaurant,Gujranwala,hello@greenleaf.com,03123456789,12,450000,2026-09-15,Active
+L004,TechVision Solutions,Software,Lahore,sales@techvision.com,03211234567,60,3500000,2026-08-28,Active
+L005,City Care Pharmacy,Healthcare,Gujranwala,citycare@gmail.com,03331234567,8,300000,2026-09-12,Active
+L006,Modern Furniture,Furniture,Islamabad,info@modernfurniture.com,03451234567,25,1200000,2026-09-01,Active
+L007,Smart Auto Parts,Automotive,Lahore,sales@smartauto.com,03009876543,40,1800000,2026-08-20,Active
+L008,Blue Sky Academy,Education,Gujranwala,admin@bluesky.edu,03119876543,22,650000,2026-09-08,Active
+L009,Elite Marketing Agency,Marketing,Islamabad,hello@eliteagency.com,03229876543,15,900000,2026-09-03,Active
+L010,Fresh Mart,Retail,Lahore,freshmart@gmail.com,03339876543,10,550000,2026-09-14,Inactive
+L011,Health Plus Clinic,Healthcare,Islamabad,info@healthplus.com,03449876543,30,1500000,2026-08-25,Active
+L012,BuildPro Contractors,Construction,Lahore,contact@buildpro.com,03059876543,50,2800000,2026-08-18,Active
+L013,Digital Edge,Software,Gujranwala,hello@digitaledge.com,03169876543,28,1700000,2026-09-06,Active
+L014,Style House,Fashion,Islamabad,stylehouse@gmail.com,03279876543,6,250000,2026-09-11,Inactive
+L015,Global Logistics,Logistics,Lahore,sales@globallogistics.com,03389876543,75,4200000,2026-08-15,Active

@@ -1,0 +1,66 @@
+# AI Sales Follow-Up Copilot — Progress Checkpoint
+
+Date: 18 September 2026
+
+## Project Goal
+Build a saleable AI Sales Follow-Up Copilot that helps businesses identify which leads to prioritize and what follow-up action to take.
+
+## Completed Today
+- Project folder created
+- Virtual environment created and activated
+- data folder created
+- src folder created
+- leads.csv created
+- Lead dataset loaded successfully
+- Python/Pandas workflow running successfully
+- Lead scoring implemented
+- Priority classification implemented
+- Days Since Contact calculated
+- Current output successfully shows:
+  - Business_Name
+  - Lead_Score
+  - Priority
+  - Days_Since_Contact
+- Current dataset contains 15 leads
+- Initial lead scoring workflow is working from CMD
+
+## Current Project Direction
+Lead data
+→ Lead scoring
+→ Priority
+→ Lead filtering
+→ Follow-up recommendations
+→ AI-generated follow-up messages
+→ Dashboard
+→ API/deployment
+→ Saleable business product
+
+## Next Steps
+1. Verify and clean current scoring logic
+2. Build lead filtering
+3. Add recommended follow-up action
+4. Add follow-up message generation
+5. Build professional dashboard
+6. Add API if needed
+7. Test complete workflow
+8. Deploy
+9. Prepare demo/video
+10. Prepare LinkedIn post
+
+## Important
+Do NOT restart the project or recreate existing files.
+Continue from the current working code.
+First inspect the current files and output before making changes.
+
+## Business Goal
+This should become a real business-oriented AI product, not just a tutorial project.
+
+Target customers:
+- Sales teams
+- Small businesses
+- Agencies
+- Lead-generation businesses
+- Service companies
+
+Core value proposition:
+Help businesses identify neglected/high-value leads and decide who to follow up with first.
